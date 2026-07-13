@@ -7,7 +7,7 @@ photo: "/assets/images/codas-hep/2026/Shirazi-Nejad-Ali.jpeg"
 github-username: AliShiraziNejad
 linkedin-profile: https://www.linkedin.com/in/alishirazinejad/
 orcid: https://orcid.org/0009-0004-0849-6028
-title: 
+title:
 website:
 logos:
     - /assets/images/codas-hep/logos/ATLAS.png
